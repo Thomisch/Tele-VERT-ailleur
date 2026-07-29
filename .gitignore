@@ -1,0 +1,20 @@
+# Binaires compilés
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/bin/
+
+# Sorties de build / test
+*.test
+*.out
+*.tmp
+_*.log
+
+# Config runtime générée localement (jamais versionnée)
+config.json
+
+# Dossiers d'outils / IDE
+.vscode/
+.idea/
