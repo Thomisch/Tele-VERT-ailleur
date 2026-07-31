@@ -36,7 +36,10 @@ optionnel existe dans l'onglet « Avancé » si tu le veux.
    `TeleVertAilleur.exe` (dernière version).
 2. Double-clique dessus. Windows SmartScreen peut afficher un avertissement
    (binaire non signé) : **Informations complémentaires → Exécuter quand même**.
-3. Une **icône verte** apparaît près de l'horloge : c'est actif. 🟢
+3. Une **icône verte** apparaît dans la zone de notification : c'est actif. 🟢
+   Sous Windows 11 elle est souvent masquée derrière le petit chevron **^** de la
+   barre des tâches — clique dessus pour la retrouver (et glisse-la sur la barre
+   pour la garder visible).
 
 Aucune installation requise (ni Go, ni .NET) — c'est un exécutable autonome.
 
@@ -115,7 +118,9 @@ automatiquement.
 
 ### Icône de la barre des tâches
 
-L'icône (près de l'horloge) reflète l'état (verte/grise). Clic droit :
+L'icône reflète l'état (verte/grise) et donne un **accès rapide** à l'appli. Si
+tu ne la vois pas, elle est repliée sous le petit chevron **^** de la barre des
+tâches (zone des icônes masquées). **Clic droit** dessus :
 
 - **Ouvrir** — réaffiche la fenêtre
 - **Activer / Désactiver** — bascule le keep-alive
