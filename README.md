@@ -30,7 +30,7 @@ optionnel existe dans l'onglet « Avancé » si tu le veux.
 ### Option 1 — Télécharger le binaire (recommandé)
 
 1. Va dans l'onglet **[Releases](../../releases)** du dépôt et télécharge
-   `TeleVERTailleur.exe` (dernière version).
+   `TeleVertAilleur.exe` (dernière version).
 2. Double-clique dessus. Windows SmartScreen peut afficher un avertissement
    (binaire non signé) : **Informations complémentaires → Exécuter quand même**.
 3. Une **icône verte** apparaît près de l'horloge : c'est actif. 🟢
@@ -56,7 +56,7 @@ console) :
 > Si l'exécution du script est bloquée par la politique PowerShell :
 > `powershell -ExecutionPolicy Bypass -File scripts/build.ps1`
 
-Le binaire est produit dans `bin/TeleVERTailleur.exe`. Pour lancer les tests :
+Le binaire est produit dans `bin/TeleVertAilleur.exe`. Pour lancer les tests :
 
 ```powershell
 ./scripts/test.ps1
@@ -66,7 +66,7 @@ Build manuel équivalent, si tu préfères :
 
 ```powershell
 $env:CGO_ENABLED = "1"
-go build -ldflags "-H=windowsgui -s -w" -o bin/TeleVERTailleur.exe ./cmd/fuckteamsstatus
+go build -ldflags "-H=windowsgui -s -w" -o bin/TeleVertAilleur.exe ./cmd/fuckteamsstatus
 ```
 
 ## Interface

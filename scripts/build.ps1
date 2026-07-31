@@ -13,7 +13,7 @@
 #>
 [CmdletBinding()]
 param(
-    [string]$Output = "bin/TeleVERTailleur.exe"
+    [string]$Output = "bin/TeleVertAilleur.exe"
 )
 
 $ErrorActionPreference = "Stop"
