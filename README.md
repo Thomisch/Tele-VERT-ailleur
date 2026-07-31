@@ -1,4 +1,4 @@
-# Télé-VERT-ailleur
+# Télé-VERT-Ailleur
 
 > Garde ta pastille Microsoft Teams au **vert** sans effort. 🟢
 
