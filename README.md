@@ -9,6 +9,9 @@ avec plages horaires, anti-veille et randomisation « humaine ».
 
 `Windows` · `Go 1.25+` · `Licence MIT`
 
+> ⭐ **Ça te fait gagner du temps (ou ça te sauve la mise) ?** Laisse une étoile
+> au repo le boss 😉 !
+
 ## Comment ça marche
 
 Teams te passe en « Absent » après quelques minutes **d'inactivité d'entrée**
@@ -206,6 +209,6 @@ Outil fourni **tel quel**, à des fins éducatives et personnelles. Contourner u
 mesure de présence peut aller à l'encontre du règlement de ton employeur —
 utilise-le en connaissance de cause, tu en es seul responsable.
 
-## Licence
+---
 
-Distribué sous licence **MIT** — voir le fichier [LICENSE](LICENSE).
+Si ce petit outil t'est utile, une ⭐ sur le dépôt ça fait toujours plaisir. Merci ! 🟢
