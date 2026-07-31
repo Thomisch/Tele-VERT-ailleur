@@ -13,7 +13,7 @@
 #>
 [CmdletBinding()]
 param(
-    [string]$Output = "bin/FuckTeamsStatus.exe"
+    [string]$Output = "bin/TeleVERTailleur.exe"
 )
 
 $ErrorActionPreference = "Stop"
